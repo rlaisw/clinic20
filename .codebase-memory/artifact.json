@@ -1,11 +1,11 @@
 {
     "schema_version": 2,
-    "commit": "7b379fe7a79a99213e726f8f5c1f0c87e3a7af12",
-    "indexed_at": "2026-09-19T06:17:02Z",
+    "commit": "5dff5c9a42a22d48f57b2a887cd3d169ddc4a84b",
+    "indexed_at": "2026-09-27T00:25:35Z",
     "project": "home-ubuntu-kilocode-clinic12",
-    "nodes": 3894,
-    "edges": 9567,
-    "original_size": 11993088,
-    "compressed_size": 2163455,
+    "nodes": 3904,
+    "edges": 9575,
+    "original_size": 12058624,
+    "compressed_size": 2165353,
     "compression_level": 3
 }
